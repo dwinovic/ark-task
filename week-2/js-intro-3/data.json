@@ -1,0 +1,30 @@
+{
+  "method": "GET",
+  "status": 200,
+  "results": [
+    {
+      "title": "Mie Aceh",
+      "asal": "Aceh"
+    },
+    {
+      "title": "Bika Ambon",
+      "asal": "Sumatra Utara"
+    },
+    {
+      "title": "Rendang",
+      "asal": "Sumatera Barat"
+    },
+    {
+      "title": "Gulai Belacan",
+      "asal": "Riau"
+    },
+    {
+      "title": "Pempek",
+      "asal": "Sumatera Selatan"
+    },
+    {
+      "title": "Serabi",
+      "asal": "Jawa Barat"
+    }
+  ]
+}
